@@ -86,9 +86,4 @@ Coleção MongoDB `ecommerce.products`:
 }
 ```
 
-## Observações
 
-- O botão de compra abre o WhatsApp com o resumo do pedido. A confirmação, pagamento e entrega são combinados diretamente com a loja; não há gateway de pagamento neste escopo.
-- O número de WhatsApp deve ser configurado com código do país e DDD, somente dígitos.
-- O Redis é opcional para execução local de contingência, mas deve estar ativo durante a demonstração para comprovar o requisito de cache.
-- O catálogo público apresenta os produtos cadastrados; produtos marcados como indisponíveis podem ser ocultados em uma próxima melhoria, caso o professor exija esse comportamento.

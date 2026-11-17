@@ -2,8 +2,7 @@
 
 Um projeto de loja virtual desenvolvido com Python e Streamlit, com integração a bancos de dados e serviços externos para oferecer uma experiência de navegação e gerenciamento de produtos.
 
-LINK DA APLICAÇÂO WEB COLAR NO GOOGLE: e-commerce-mgjeg5vrbmkguff7mwc6m2
-.streamlit.app
+LINK DA APLICAÇÂO WEB COLAR NO GOOGLE: e-commerce-mgjeg5vrbmkguff7mwc6m2.streamlit.app
 
 ## 👨‍💻 Desenvolvedores
 
